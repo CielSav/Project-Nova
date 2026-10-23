@@ -1,3 +1,3 @@
 const appConfig = {
-	environment: "development"
+	environment: "production"
 };
